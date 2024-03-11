@@ -56,7 +56,7 @@ console.log(northernIrelandKeys);
  */
 
 if(unitedKingdom[0].population > unitedKingdom[2].population){
-  console.log("Scotland has a higher population than Wales");
-} else { console.log("Wales has a higher population than Scotland");
+  console.log("Scotland has a higher population than Wales!");
+} else { console.log("Wales has a higher population than Scotland!");
 }
 
